@@ -1,1 +1,3 @@
-whole bunch of text here as an example.  All from the great Catsby
+whole bunch of text here as an example.  All from the great Catsby.
+This is a test that helps me to better understand VsCODE.
+
